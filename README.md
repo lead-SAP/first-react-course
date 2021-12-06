@@ -1,3 +1,15 @@
+# Disclaimer:
+The produced code is a by-product of following Maximilian Schwarzmuller's  React Crash Course for Beginners 2021:
+https://www.youtube.com/watch?v=Dorf8i6lCuk
+
+All "css" files were copied from the original github repository:
+https://github.com/academind/react-complete-guide-code/tree/zz-reactjs-summary
+
+On the other hand, all other files were created by following the directions provided in the youtube video. Moreover, errors occured, due to differences in react versions, were solved by looking up similar issues mainly on StackOverFlow.
+Another difference is the addition of a "database" folder under the "src" directory with a "database.js" file which contains the "databaseLink()" function that is used in "AllMeetup.js" & "NewMeetup.js" to return the link to the online database - firebase. The contents of the "database.js" file are hidden from public access. Please follow the  instructions in the youtube video linked above for linking firebase to a react project.
+
+# Below is a generic rendering of a README.md file when creating a react app using "npx create-react-app <insert project name here>".
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
